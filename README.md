@@ -1,1 +1,1 @@
-# site
+# site theme:minima
